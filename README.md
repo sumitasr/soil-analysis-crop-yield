@@ -1,4 +1,4 @@
-# soil-analysis-crop-yield
+# Soil analysis and crop yield prediction
 
 
 
